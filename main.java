@@ -5,7 +5,7 @@ public class main
         Person Sweeney = new Person("Coach Sweeney", 58, "M");
         System.out.println(Sweeney);
 
-        Student Gretchen = new Student("Gretchen Klees", 17, "F", "62264", 3.4);
+        Student Gretchen = new Student("Gretchen Klees", 17, "F", "62264", 3.7);
         System.out.println(Gretchen);
 
         Teacher mrSos = new Teacher("Shannon Sos", 36, "M", "Computer Science", 9001);
